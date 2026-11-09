@@ -1,0 +1,9 @@
+{
+  "feeds": [
+    {
+      "id": "progress",
+      "name": "作業進捗",
+      "url": "https://raw.githubusercontent.com/mirin616/android-music-player/main/progress.json"
+    }
+  ]
+}
